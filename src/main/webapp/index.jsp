@@ -7,7 +7,7 @@
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https:/F/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous">
 
     <style>
         /* ========== ROOT VARIABLES ========== */
@@ -1186,7 +1186,8 @@
         <section class="hero" aria-label="Hero banner">
             <div class="container">
                 <div class="badge"><i class="fas fa-sparkles"></i> New Collection 2026</div>
-                <h1>Discover Premium and luxury <br>Essentials</h1>
+                <h1>Discover Premium <br>Essentials</h1>
+                <h1>And Find <br>Essentials</h1>
                 <p>Curated fashion, tech & accessories with free shipping on your first order. Limited-time deals await.</p>
                 <div class="actions">
                     <button class="btn btn-primary" id="shopNow"><i class="fas fa-arrow-right"></i> Shop Now</button>
